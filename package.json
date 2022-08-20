@@ -1,0 +1,19 @@
+{
+  "name": "unwatcher-tool",
+  "version": "1.0.0",
+  "description": "unwatches GitHub repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbjonesjr/unwatcher-tool.git"
+  },
+  "author": "@jbjonesjr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbjonesjr/unwatcher-tool/issues"
+  },
+  "homepage": "https://github.com/jbjonesjr/unwatcher-tool#readme"
+}
